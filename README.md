@@ -53,6 +53,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham1411&show_icons=true&locale=en&layout=compact&theme=merko" alt="soham1411" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham1411&show_icons=true&locale=en&theme=merko" alt="soham1411" /></p>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soham1411&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
