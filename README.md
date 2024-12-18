@@ -58,3 +58,11 @@
 <p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=Soham1411&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+
+### Last Listened to :
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31edes7spsh2fyuh6gagjm4teorm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31edes7spsh2fyuh6gagjm4teorm&count=7&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
