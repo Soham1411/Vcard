@@ -50,8 +50,8 @@
 
 # 📊 GitHub Stats:
 
-[![Soham1411's GitHub | Stats](https://stats.quine.sh/Soham1411/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Soham1411)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Soham1411&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham1411&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham1411&show_icons=true&locale=en&layout=compact" alt="soham1411" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham1411&show_icons=true&locale=en" alt="soham1411" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham1411&" alt="soham1411" /></p>
 
 
