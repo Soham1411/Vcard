@@ -15,3 +15,7 @@
 | [OrderInn](https://github.com/Soham1411/Order-Inn)                                                        | Ecommerce Website(work in progress)                        |
 | [Face detection model](https://github.com/Soham1411/face_reognition_opencv)                               | Face detection model using OpenCV                          |
 | [Face recognization model](https://github.com/Soham1411/face_reognition_opencv)                           | Face recognization model on custom dataset                 |
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lone_1411) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-mondal-6815b528b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/LONEBEAST13)
